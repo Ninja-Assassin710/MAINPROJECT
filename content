@@ -1,0 +1,182 @@
+
+   
+
+    <!-- Contact Section -->
+    <div class="contact-section" id="contactsection">
+        <p class="contact-section-connect">Connecting With Us</p>
+        <div class="contact-section-content">
+            <div class="contact-section-left-content">
+                <h4>Contact Info</h4>
+                <p class="address"><i class="fa fa-address-card" aria-hidden="true"></i> 
+<h4>Address</h4><br> 21, Sneh Nagar, Mandsaur <br> Madhya Pardesh ,India</p>
+                <p class="phone"><i class="fa fa-phone" aria-hidden="true"></i>
+<h4>Phone</h4><br> 8269745658</p>
+                <p class="email"><i class="fa fa-envelope-o" aria-hidden="true"></i>
+<h4>Email</h4><br><a href="">raviprajapati45678@gmail.com</a></p>
+            </div>
+        </div>
+        <form action="" method="" class="contact-section-form">
+            <span class="contact-section-form-span">
+            <label for="name">Name</label>
+            <input type="text" required> <br>
+            <label for="phone">Phone</label>
+            <input type="number" required> <br>
+            <label for="email">Email</label>
+            <input type="email" placeholder="email id" required><br>
+            <input type="text" name="" id="textarea">
+        <br>
+        <!-- <input type="button" class="btn" value="SEND"> -->
+        <button type="send" class="btn">SEND</button>
+        </span>
+        </form>
+    </div>
+    <!-- End of  Contact Section -->
+    <!-- About Section -->
+    <div class="about-section" id="aboutsection">
+    <h1 class="about-heading">About Us</h1>
+    <div class="developer">
+    <div class="developer-card">
+    <div class="front"><img src="./prateek.jpeg" alt="developer-image" class="about-section-image" id="prateek"></div>
+    <div class="back">
+        <div class="details">
+            <h2 class="details-heading">Prateek Mali</h1> <br>
+            <h4 class="details-heading">Bot training <br> and <br> Database Collection</h1>
+            <div class="social-platform">
+                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i>
+</a>
+            </div>
+</div>
+        </div>
+    </div>
+    <div class="developer">
+    <div class="developer-card">
+    <div class="front"><img src="./rishabh.jpeg" alt="developer-image" class="about-section-image" id="rishabh"></div>
+    <div class="back">
+        <div class="details">
+            <h2 class="details-heading">Rishabh Rathore</h1>
+            <h4 class="details-heading">Bot training <br> and <br> Back-end</h1>
+            <div class="social-platform">
+                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i>
+</a>
+            </div>
+</div>
+        </div>
+    </div>
+    <div class="developer">
+    <div class="developer-card">
+    <div class="front"><img src="./ravi.jpg" alt="developer-image" class="about-section-image" id="ravi"></div>
+    <div class="back">
+        <div class="details">
+            <h2 class="details-heading">Ravi Varujana</h1>
+            <h4 class="details-heading">Bot training <br> and <br> Front-end</h1>
+            <div class="social-platform">
+                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i>
+</a>
+            </div>
+</div>
+        </div>
+    </div>
+    <div class="developer">
+    <div class="developer-card">
+    <div class="front"><img src="./tanishq.jpeg" alt="developer-image" class="about-section-image" id="tanishq"></div>
+    <div class="back">
+        <div class="details">
+            <h2 class="details-heading">Tanishq Patidar</h1>
+            <h4 class="details-heading">Bot training <br> and <br> Back-end</h1>
+            <div class="social-platform">
+                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i>
+</a>
+            </div>
+</div>
+        </div>
+    </div>
+    <div class="developer">
+    <div class="developer-card">
+    <div class="front"><img src="" alt="developer-image" class="about-section-image" id="varun"></div>
+    <div class="back">
+        <div class="details">
+            <h2 class="details-heading">Varun Lacchwani</h1>
+            <h4 class="details-heading">Bot training <br> and <br> Database Collection</h1>
+            <div class="social-platform">
+                <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i>
+</a>
+            </div>
+</div>
+        </div>
+    </div> -->
+    </div>
+
+    <!-- <span class="about-section">
+        <p class="about-section-content">This is a demo website by the students of IT department 3rd currently working on their minor project. All the teams members had put there efforts to make this project best. 'HealthUp' our website contains an integrated bot that would help people by giving them suggestions and advice on health issues. </p>
+    </span> -->
+</div>
+    <!-- End of About Section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* .middle-section .middle-section-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.middle-section .middle-section-content img
+{   
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    left: 0;
+    border: 0px solid black;
+    padding-bottom: 40px;
+}
+.middle-section .middle-section-content img:hover
+{   content: 'hell';
+   padding-top: 40px;
+   padding-bottom: 0px;
+   transition: all ease .4s;
+}
+.middle-section > .quote{
+    float: right;
+}
